@@ -10,7 +10,7 @@ const NavigationBar = () => {
                     Home
                 </Navbar.Brand>
 
-                <Nav.Link as={Link} to="">
+                <Nav.Link as={Link} to="/se151037/all-lessons">
                     All Lesson
                 </Nav.Link>
             </Navbar>

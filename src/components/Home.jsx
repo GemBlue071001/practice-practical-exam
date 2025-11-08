@@ -42,7 +42,6 @@ const Home = () => {
                 <Row>
                     {!isLoading && courses.map((course) => {
                         return (
-
                             <Col className="mb-4" md={6} lg={3}>
                                 <Card className="h-100">
                                     <Card.Img
